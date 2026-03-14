@@ -120,7 +120,8 @@ int main() {
 
 
 ## Output:
-
+## Output
+![Output](crypto.png)
 
 
 ## Result:
